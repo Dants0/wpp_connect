@@ -139,6 +139,8 @@ dist
 .wwebjs_auth
 .wwebjs_cache
 
+.data
+
 # Optional stylelint cache
 
 # SvelteKit build / generate output
