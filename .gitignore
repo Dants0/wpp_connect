@@ -139,7 +139,7 @@ dist
 .wwebjs_auth
 .wwebjs_cache
 
-.data
+/data/
 
 # Optional stylelint cache
 
